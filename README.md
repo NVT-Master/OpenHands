@@ -82,6 +82,15 @@ You might also be interested in our [evaluation infrastructure](https://github.c
 All our work is available under the MIT license, except for the `enterprise/` directory in this repository (see the [enterprise license](enterprise/LICENSE) for details).
 The core `openhands` and `agent-server` Docker images are fully MIT-licensed as well.
 
+### Build your own source-owned OpenHands project
+
+If you want a project like OpenHands where **you own and control the source code**, use this repo as your base:
+
+1. Fork this repository to your own GitHub account.
+2. Clone your fork locally and create your own branch/workflow.
+3. Follow [Development.md](Development.md) to run and customize your own deployment.
+4. Keep syncing upstream changes from `OpenHands/OpenHands` when you want new features.
+
 If you need help with anything, or just want to chat, [come find us on Slack](https://dub.sh/openhands).
 
 <hr>
